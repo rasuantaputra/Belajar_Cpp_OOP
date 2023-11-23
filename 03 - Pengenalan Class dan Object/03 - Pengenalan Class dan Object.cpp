@@ -15,6 +15,7 @@ public:
 
 int main(int argc, char const *argv[])
 {
+    // ini nama nya objek dari class Mahasiswa. -> nama objek: data1, nama class: Mahasiswa
     Mahasiswa data1;
     Mahasiswa data2;
 
