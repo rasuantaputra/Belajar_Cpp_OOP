@@ -1,5 +1,6 @@
 /**
  * memory sebuah class tergantung pada attribut kelas tersebut
+ * semua yg disimpan pada stack memory akan dihapus otomatis setelah tanda "}"
 */
 
 #include <iostream>
