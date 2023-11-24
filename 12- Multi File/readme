@@ -1,0 +1,9 @@
+di compie kedua file ".cpp"
+yaitu :
+    1. 12 - Multi File.cpp
+    2. Player.cc
+
+
+ATAU PAKAI CARA INI:
+
+$ g++ "12 - Multi File.cpp" Player.cpp -o Main.exe
