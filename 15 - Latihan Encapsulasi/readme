@@ -1,0 +1,9 @@
+di compie kedua file ".cpp"
+yaitu :
+    1. 15 - Latihan Encapsulasi.cpp
+    2. Player.cpp
+
+
+ATAU PAKAI CARA INI:
+
+$ g++ "15 - Latihan Encapsulasi.cpp" Player.cpp Weapon.cpp -o Main.exe
