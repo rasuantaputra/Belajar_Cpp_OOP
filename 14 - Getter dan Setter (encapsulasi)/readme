@@ -1,0 +1,9 @@
+di compie kedua file ".cpp"
+yaitu :
+    1. 14 - Getter dan Setter (encapsulasi)
+    2. Player.cpp
+
+
+ATAU PAKAI CARA INI:
+
+$ g++ "14 - Getter dan Setter (encapsulasi).cpp" Player.cpp -o Main.exe
