@@ -1,0 +1,9 @@
+di compie kedua file ".cpp"
+yaitu :
+    1. 13 - Public dan Private Keyword
+    2. Mahasiswa.cc
+
+
+ATAU PAKAI CARA INI:
+
+$ g++ "13 - Public dan Private Keyword" Mahasiswa.cpp -o Main.exe
