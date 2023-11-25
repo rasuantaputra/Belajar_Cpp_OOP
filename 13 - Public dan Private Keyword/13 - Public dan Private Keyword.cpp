@@ -16,6 +16,6 @@ int main(int argc, char const *argv[])
     mahasiswa2->showDisplay(); // ini bisa dilakukan karena walau attribute nya "Private" sudah di ambil ke "Public" duluan sama method "showDisplay()"
     // mahasiswa2->showDisplayPrivat(); // tidak bisa di lakukan karena "Private"
 
-    delete mahasiswa1;
+    delete mahasiswa1, mahasiswa2;
     return 0;
 }
